@@ -1,0 +1,4 @@
+// the configured options and settings for NAIVEDB
+constexpr int NAIVEDB_VERSION_MAJOR = @NaiveDB_VERSION_MAJOR@;
+constexpr int NAIVEDB_VERSION_MINOR = @NaiveDB_VERSION_MINOR@;
+constexpr int NAIVEDB_VERSION_PATCH = @NaiveDB_VERSION_PATCH@;

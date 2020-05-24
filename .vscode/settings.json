@@ -1,0 +1,10 @@
+{
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+  "files.associations": {
+    "*.h.in": "plaintext",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "vector": "cpp"
+  },
+  "clang-tidy.buildPath": "build"
+}
